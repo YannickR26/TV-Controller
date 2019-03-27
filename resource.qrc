@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>pixmap/blog.png</file>
+        <file>pixmap/blog_add.png</file>
+        <file>pixmap/camera.png</file>
+        <file>pixmap/folder_open.png</file>
+        <file>pixmap/info_blue.png</file>
+        <file>pixmap/plus.png</file>
+        <file>pixmap/power_blue.png</file>
+        <file>pixmap/save.png</file>
+        <file>pixmap/tools.png</file>
+        <file>pixmap/tv.png</file>
+        <file>pixmap/tv-icon.ico</file>
+    </qresource>
+</RCC>
